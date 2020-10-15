@@ -63,8 +63,8 @@ def calculate_tema(closePrice, prevEMA, period, prev_ema_of_ema, prev_ema_of_ema
 #-------------------------------------------------------------------------------------#
 
 def DEMA_TEMA_execution():
-    api_key = 'WGEwMFkKEA0Txro85TdJKfaHMc5e66edL1qn1IxXiqlEjglInZSbmVe2cQ3pmnkT'
-    api_secret = 'lFkT6l2R7vWplMjUFHxTxde8pWH25PjhuHGvrf5jX9CSR9nFMN28YtDQ5eH42Hwf'
+    api_key = 'Key angeben'
+    api_secret = 'Secret angeben'
 
     #currencies
     currencyArray =    ['BTCUSDT',          
